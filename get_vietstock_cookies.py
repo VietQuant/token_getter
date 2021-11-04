@@ -69,6 +69,8 @@ if __name__ == '__main__':
                 body = dict(parse_qsl(request._body.decode('UTF-8')))
                 FileAccessor.write_json("vietstock_bodies.json", body)
     driver.get("https://finance.vietstock.vn/ket-qua-giao-dich")
+    WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.ID, 'btn-page-next')))
+    driver.find_element_by_id("btn-page-next").click()
     for request in driver.requests:
         if request.response:
             if "KQGDThongKeGiaPaging" in request.url:
