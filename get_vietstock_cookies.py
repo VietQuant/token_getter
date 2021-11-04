@@ -68,4 +68,11 @@ if __name__ == '__main__':
                 print(request.url)
                 body = dict(parse_qsl(request._body.decode('UTF-8')))
                 FileAccessor.write_json("vietstock_bodies.json", body)
+    driver.get("https://finance.vietstock.vn/ket-qua-giao-dich")
+    for request in driver.requests:
+        if request.response:
+            if "KQGDThongKeGiaPaging" in request.url:
+                print(request.url)
+                body = dict(parse_qsl(request._body.decode('UTF-8')))
+                FileAccessor.write_json("vietstock_sts_bodies.json", body)
     driver.close()
