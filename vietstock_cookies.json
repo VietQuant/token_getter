@@ -1,12 +1,12 @@
 [
   {
     "domain": "finance.vietstock.vn",
-    "expiry": 1643185038,
+    "expiry": 1643239025,
     "httpOnly": false,
     "name": "vst_usr_lg_token",
     "path": "/",
     "secure": false,
-    "value": "Wck1ohwHGEy6xsOFurUgKQ=="
+    "value": "uvUVRNinGkCuWDYFROcxTQ=="
   },
   {
     "domain": ".vietstock.vn",
@@ -14,34 +14,34 @@
     "name": "vts_usr_lg",
     "path": "/",
     "secure": false,
-    "value": "4D65CE6A0698B5AF5FF1F9FCE368069C56076E474B556D93E23E08E9AE1CA39C24259775DDAF669A470C1891C5C1E0E7C0E4EA09D04702F796B662AECD0854440A75C1264186139E9A563ADFD824E1D3D79EDD73EA5EABE7BC3E114E5DF463AE66A0D2DD922BFB3E67AA1E4450A38733233E53BF38DC007B3153C88F51847CFC"
+    "value": "124057E58CF2B144AF08DE396FE6C56A5D69CAE780F5651564B6B68B152D20F3991B854F4FD5EE4CB8C8AC50D7E931E5911C2A9FF78084DB5A98E00DE79FFDBBAD9169A14C53113864BEECFCE71D377D08E2B6BFC18A8AE776062A0FBD477E01C881954C41466C57C801363D58E2B9D10CD847A039FF51EC4928BFBCEC5BEA48"
   },
   {
     "domain": ".vietstock.vn",
-    "expiry": 1674289031,
+    "expiry": 1674343019,
     "httpOnly": false,
     "name": "__gads",
     "path": "/",
     "secure": false,
-    "value": "ID=4f938c148d800a40-22c267d985cf0056:T=1640593031:S=ALNI_MaY9wl2mL-LW37uqNhCoEsfid06FA"
+    "value": "ID=9221a94d447a876d-2215cff987cf0088:T=1640647019:S=ALNI_MYhCSSs4xJp0cs2pBDBBsY78a0HdA"
   },
   {
     "domain": ".finance.vietstock.vn",
-    "expiry": 1703665031,
+    "expiry": 1703719019,
     "httpOnly": false,
     "name": "dable_uid",
     "path": "/",
     "secure": false,
-    "value": "84306677.1640593031098"
+    "value": "71148548.1640647019261"
   },
   {
     "domain": ".finance.vietstock.vn",
-    "expiry": 1640679439,
+    "expiry": 1640733426,
     "httpOnly": false,
     "name": "_gid",
     "path": "/",
     "secure": false,
-    "value": "GA1.3.416254025.1640593031"
+    "value": "GA1.3.1629610166.1640647019"
   },
   {
     "domain": "finance.vietstock.vn",
@@ -49,20 +49,20 @@
     "name": "ASP.NET_SessionId",
     "path": "/",
     "secure": false,
-    "value": "cj5kppo22wgla5rs3m4q3crj"
+    "value": "sn0zhl34jtzkhku0eqdj2hyu"
   },
   {
     "domain": ".finance.vietstock.vn",
-    "expiry": 1703665039,
+    "expiry": 1703719026,
     "httpOnly": false,
     "name": "_ga",
     "path": "/",
     "secure": false,
-    "value": "GA1.3.160310174.1640593031"
+    "value": "GA1.3.1193082962.1640647019"
   },
   {
     "domain": ".vietstock.vn",
-    "expiry": 1640593091,
+    "expiry": 1640647079,
     "httpOnly": false,
     "name": "_gat_gtag_UA_1460625_2",
     "path": "/",
@@ -71,16 +71,16 @@
   },
   {
     "domain": ".vietstock.vn",
-    "expiry": 1703665039,
+    "expiry": 1703719026,
     "httpOnly": false,
     "name": "_ga",
     "path": "/",
     "secure": false,
-    "value": "GA1.2.160310174.1640593031"
+    "value": "GA1.2.1193082962.1640647019"
   },
   {
     "domain": "finance.vietstock.vn",
-    "expiry": 1643271423,
+    "expiry": 1643325412,
     "httpOnly": false,
     "name": "AnonymousNotification",
     "path": "/",
@@ -89,16 +89,16 @@
   },
   {
     "domain": ".vietstock.vn",
-    "expiry": 1640679439,
+    "expiry": 1640733426,
     "httpOnly": false,
     "name": "_gid",
     "path": "/",
     "secure": false,
-    "value": "GA1.2.416254025.1640593031"
+    "value": "GA1.2.1629610166.1640647019"
   },
   {
     "domain": "finance.vietstock.vn",
-    "expiry": 1643271422,
+    "expiry": 1643325409,
     "httpOnly": false,
     "name": "Theme",
     "path": "/",
@@ -111,11 +111,11 @@
     "name": "__RequestVerificationToken",
     "path": "/",
     "secure": false,
-    "value": "2GY9mffWHGjHrzusW_nrt1ibd764_hBBtDcFgbhDP8brOCTleCreVw8bNOG0VVL1GG0jJMMmOqXHxPSWMMIl3OxCYte39Kcf2HHfoQl1hto1"
+    "value": "chBr_6e7AZrb6csLxGwHvh8B4Tm2bKfUBY4qDe3acupBBvdmH2EyuLxMY4kXfJQXyI3zjHVSIIPKRW6pYNMk6yVzhqwnpmgd0cC-1bXf3TE1"
   },
   {
     "domain": "finance.vietstock.vn",
-    "expiry": 1641197830,
+    "expiry": 1641251818,
     "httpOnly": false,
     "name": "isShowLogin",
     "path": "/",
@@ -124,7 +124,7 @@
   },
   {
     "domain": "finance.vietstock.vn",
-    "expiry": 1643271422,
+    "expiry": 1643325411,
     "httpOnly": false,
     "name": "language",
     "path": "/",
