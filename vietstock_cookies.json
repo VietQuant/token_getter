@@ -1,75 +1,48 @@
 [
   {
-    "domain": ".vietstock.vn",
-    "expiry": 1642753085,
-    "httpOnly": false,
-    "name": "_gat_gtag_UA_1460625_2",
-    "path": "/",
-    "secure": false,
-    "value": "1"
-  },
-  {
-    "domain": ".vietstock.vn",
-    "expiry": 1642839425,
-    "httpOnly": false,
-    "name": "_gid",
-    "path": "/",
-    "secure": false,
-    "value": "GA1.2.1460519430.1642753018"
-  },
-  {
-    "domain": ".vietstock.vn",
-    "expiry": 1705825025,
-    "httpOnly": false,
-    "name": "_ga",
-    "path": "/",
-    "secure": false,
-    "value": "GA1.2.1110535247.1642753018"
-  },
-  {
     "domain": "finance.vietstock.vn",
-    "expiry": 1645345024,
+    "expiry": 1645399024,
     "httpOnly": false,
     "name": "vst_usr_lg_token",
     "path": "/",
     "secure": false,
-    "value": "OmVW89XKNU+9J0T2f3ojjw=="
+    "value": "M68Q3+WJCES6nHuSjvj7Cg=="
   },
   {
     "domain": ".finance.vietstock.vn",
-    "expiry": 1705825018,
+    "expiry": 1705879018,
     "httpOnly": false,
     "name": "dable_uid",
     "path": "/",
     "secure": false,
-    "value": "92309925.1642753018066"
+    "value": "59833920.1642807018122"
   },
   {
     "domain": ".finance.vietstock.vn",
-    "expiry": 1642839425,
+    "expiry": 1642893424,
     "httpOnly": false,
     "name": "_gid",
     "path": "/",
     "secure": false,
-    "value": "GA1.3.1460519430.1642753018"
+    "value": "GA1.3.585904442.1642807018"
   },
   {
     "domain": ".vietstock.vn",
-    "expiry": 1676449018,
+    "expiry": 1676503018,
     "httpOnly": false,
     "name": "__gads",
     "path": "/",
     "secure": false,
-    "value": "ID=580fdc85c0f8d59f-22e9114b23d0001f:T=1642753018:S=ALNI_Mbqid2FlY3GOh60Qsj-SJ5pO9phIA"
+    "value": "ID=ca129a56de0a87e3-22c38da823d000cb:T=1642807018:S=ALNI_MbvvGnKSbQbi8Lc4oviGTfTEOmrKw"
   },
   {
     "domain": ".finance.vietstock.vn",
-    "expiry": 1705825025,
+    "expiry": 1705879024,
     "httpOnly": false,
     "name": "_ga",
     "path": "/",
     "secure": false,
-    "value": "GA1.3.1110535247.1642753018"
+    "value": "GA1.3.133836665.1642807018"
   },
   {
     "domain": "finance.vietstock.vn",
@@ -77,11 +50,11 @@
     "name": "ASP.NET_SessionId",
     "path": "/",
     "secure": false,
-    "value": "iu410ou1bkrjzmyimypzkkt3"
+    "value": "lzh3cdpgpcg5kk4x4q45f3h0"
   },
   {
     "domain": "finance.vietstock.vn",
-    "expiry": 1645431410,
+    "expiry": 1645485411,
     "httpOnly": false,
     "name": "AnonymousNotification",
     "path": "/",
@@ -90,7 +63,7 @@
   },
   {
     "domain": "finance.vietstock.vn",
-    "expiry": 1645431410,
+    "expiry": 1645485411,
     "httpOnly": false,
     "name": "Theme",
     "path": "/",
@@ -103,7 +76,7 @@
     "name": "vts_usr_lg",
     "path": "/",
     "secure": false,
-    "value": "0E9E69CA039E8AD7A2F350E1C29D46B8B137D4D9C99CA08BCCE3363345280A226AB7DDD988EAD96996E69FD7EB1432C814D51B4F7F328504F91928B7A598061042515A43D1F0EF345B22E84D967CAEAC8912795567C6B34B331A76FC20AB03059D4F9BA9ADFD1F2B763A5190558DE439B5ADDF88F37F2451DD6E851A00863CDE"
+    "value": "2D8B8F49F124C472F9B8FC9B64E3098BCD01A17DA5C1458577C30A2DC16CE54FE8B6C6B022502D6A4FC35E10425EDA92468713480F0699693C5A0FF732FDF456A800B1002FDA8A3D0F95D82AE35917C6C3B8538A6AF3A01F83301E263AA6D5C14E58324AC86C85C52AF4F305EFF4E8732399AA2CC8B25F4C3F49AAF00E21FF92"
   },
   {
     "domain": "finance.vietstock.vn",
@@ -111,11 +84,11 @@
     "name": "__RequestVerificationToken",
     "path": "/",
     "secure": false,
-    "value": "gYCQn2httTcr2y8WnD72BTRy4yD-8G_ngpI8i87nTOLDTkFQYvwoqUwMQTluC_IcEdMs7QuljUeEprx7IqalMWkCXpwRufnsTtb7lp92nPY1"
+    "value": "XKqnY6nQZtqriWmeHlwnvHqaUB_dR-Cqlzmn_eK71j7vnAHaCLuft6RFup-A31EyZkdfH-Qk18Dj0OAYBUUh2v_ibp9-0Lb4wGfdHX3sfIM1"
   },
   {
     "domain": "finance.vietstock.vn",
-    "expiry": 1643357817,
+    "expiry": 1643411817,
     "httpOnly": false,
     "name": "isShowLogin",
     "path": "/",
@@ -124,7 +97,7 @@
   },
   {
     "domain": "finance.vietstock.vn",
-    "expiry": 1645431410,
+    "expiry": 1645485410,
     "httpOnly": false,
     "name": "language",
     "path": "/",
