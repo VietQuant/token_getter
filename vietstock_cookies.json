@@ -1,34 +1,42 @@
 [
   {
-    "domain": ".vietstock.vn",
-    "expiry": 1682583419,
-    "httpOnly": false,
-    "name": "__gads",
-    "path": "/",
-    "secure": false,
-    "value": "ID=514b3445cb1a531b-223d97a681d100c4:T=1648887419:RT=1648887426:S=ALNI_MbgxDLeH1WQU_5-zhVIvCTjqszGLQ"
-  },
-  {
     "domain": "finance.vietstock.vn",
-    "expiry": 1651479424,
+    "expiry": 1651565829,
     "httpOnly": false,
     "name": "vst_usr_lg_token",
     "path": "/",
     "secure": false,
-    "value": "CzljDokASkak1EJm+dMWzg=="
+    "value": "g+4mMTfjAk6yDzJc1FH00g=="
+  },
+  {
+    "domain": ".vietstock.vn",
+    "httpOnly": true,
+    "name": "vts_usr_lg",
+    "path": "/",
+    "secure": false,
+    "value": "947A98F80DDE70473DFA356252A416F08ADDDBF3E2748360C9CCE983E88DFA7CEBC7B8CE36F22EA56CDCEDBE7A76EF937751CB60E1A8C30A772675190DCF33C769DF3B4CC0440F2DC703C24F3F26849C528CE3B6DC255B3EDF08A1559273661751AFAB7D516E612B14D4722A9598EE08FFB5CEE563282CD496F8023F7741BD39"
+  },
+  {
+    "domain": ".vietstock.vn",
+    "expiry": 1682669818,
+    "httpOnly": false,
+    "name": "__gads",
+    "path": "/",
+    "secure": false,
+    "value": "ID=d0657e141e482ce1-2244bd888ed1007a:T=1648973818:S=ALNI_MZ_OyoyU7G1WoGCR7BqjOG77gshMw"
   },
   {
     "domain": ".finance.vietstock.vn",
-    "expiry": 1711959419,
+    "expiry": 1712045818,
     "httpOnly": false,
     "name": "dable_uid",
     "path": "/",
     "secure": false,
-    "value": "48810862.1648887419600"
+    "value": "32567455.1648973818559"
   },
   {
     "domain": ".vietstock.vn",
-    "expiry": 1648887479,
+    "expiry": 1648973878,
     "httpOnly": false,
     "name": "_gat_gtag_UA_1460625_2",
     "path": "/",
@@ -37,12 +45,12 @@
   },
   {
     "domain": ".vietstock.vn",
-    "expiry": 1711959425,
+    "expiry": 1712045830,
     "httpOnly": false,
     "name": "_ga",
     "path": "/",
     "secure": false,
-    "value": "GA1.2.622833786.1648887419"
+    "value": "GA1.2.656526636.1648973818"
   },
   {
     "domain": "finance.vietstock.vn",
@@ -50,11 +58,11 @@
     "name": "ASP.NET_SessionId",
     "path": "/",
     "secure": false,
-    "value": "mseq0bupipnmzeisgwpps5xs"
+    "value": "jvssz4efspmpiijnrsq1h3mv"
   },
   {
     "domain": "finance.vietstock.vn",
-    "expiry": 1651479413,
+    "expiry": 1651565811,
     "httpOnly": false,
     "name": "AnonymousNotification",
     "path": "/",
@@ -63,16 +71,16 @@
   },
   {
     "domain": ".vietstock.vn",
-    "expiry": 1648973825,
+    "expiry": 1649060230,
     "httpOnly": false,
     "name": "_gid",
     "path": "/",
     "secure": false,
-    "value": "GA1.2.1293043874.1648887419"
+    "value": "GA1.2.963006986.1648973818"
   },
   {
     "domain": "finance.vietstock.vn",
-    "expiry": 1651479411,
+    "expiry": 1651565810,
     "httpOnly": false,
     "name": "Theme",
     "path": "/",
@@ -81,11 +89,12 @@
   },
   {
     "domain": ".vietstock.vn",
-    "httpOnly": true,
-    "name": "vts_usr_lg",
+    "expiry": 1648973878,
+    "httpOnly": false,
+    "name": "_gat_UA-1460625-2",
     "path": "/",
     "secure": false,
-    "value": "2C628DE4EA280433C19DC89CA447C8C3F7A9579BBDF806C26E19086A86DA06C5A105856FE020287926E2530984F1214026DBD58CC0F34899619848AD341C4704E492EBC56E1254CFCDD81AE62BF8FA8B3F51098365826685135B770D460ACB5C33214B7390F6E0EBE8E98CC57BDBA47FB129A25FAB49016417E569512D03BFDB"
+    "value": "1"
   },
   {
     "domain": "finance.vietstock.vn",
@@ -93,11 +102,11 @@
     "name": "__RequestVerificationToken",
     "path": "/",
     "secure": false,
-    "value": "EyfV4xFHL3bJZvhmvit-AX6vyrysP9-eaaZoHGyOGmvpbRgLsVrm8jCZvFThb2AuOpw6iOi2BF3ha-Hu0lnQ2NMvAQ9rF9YLujwOuXpT54I1"
+    "value": "V8CyobskcWeDaW_ooRc-dIM_hHLdgoyIuUpGkHprf1zIVNECvASNWxesY6jQFTFCAu3aJLYIn2tAFgaW2A8TPVF52GTbgUpeFPHhEPE_URo1"
   },
   {
     "domain": "finance.vietstock.vn",
-    "expiry": 1649492218,
+    "expiry": 1649578617,
     "httpOnly": false,
     "name": "isShowLogin",
     "path": "/",
@@ -106,7 +115,7 @@
   },
   {
     "domain": "finance.vietstock.vn",
-    "expiry": 1651479411,
+    "expiry": 1651565810,
     "httpOnly": false,
     "name": "language",
     "path": "/",
