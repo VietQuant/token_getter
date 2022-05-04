@@ -14,7 +14,7 @@ def set_chrome_options() -> None:
     Chrome options for headless browser is enabled.
     """
     chrome_options = webdriver.ChromeOptions()
-    chrome_options.add_argument("--headless")
+    # chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument('--proxy-server=192.168.1.122:1412')
@@ -59,6 +59,8 @@ if __name__ == '__main__':
     driver.find_element_by_id('exampleInputPassword1').send_keys('Hpcompap241')
     driver.find_element_by_xpath('//*[@id="home"]/form/fieldset/div[3]/button').click()
     time.sleep(10)
+    driver.find_element_by_xpath('//*[@id="goldenLayout"]/div/div/div[1]/div[1]/div[2]/div/div/div/div[1]/div[1]/div/ul/li[3]/a/span').click()
+    time.sleep(5)
     # webdriver.
     # driver.get("https://market.fiintrade.vn/MarketInDepth/GetValuationSeriesV2?language=vi&Code=VNINDEX&TimeRange=AllTime&FromDate=&ToDate=")
     # cookies = driver.get_cookies()
@@ -71,6 +73,7 @@ if __name__ == '__main__':
         if request.response:
             if "https://market.fiintrade.vn/MarketInDepth/GetValuationSeriesV2" in request.url:
                 print(request.url)
+                print(request.headers)
                 # body = dict(parse_qsl(request._body.decode('UTF-8')))
                 FileAccessor.write_json("fiintrade_headers.json", dict(request.headers))
     driver.close()
