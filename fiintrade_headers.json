@@ -1,0 +1,17 @@
+{
+  "Host": "market.fiintrade.vn",
+  "Connection": "keep-alive",
+  "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"",
+  "Accept": "application/json, text/plain, */*",
+  "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IkY4MDA1REIxQkI0MzY4Q0Q3RkJFMUUxRTlEQjkwMTg2MUY5NEFGMTEiLCJ0eXAiOiJKV1QiLCJ4NXQiOiItQUJkc2J0RGFNMV92aDRlbmJrQmhoLVVyeEUifQ.eyJuYmYiOjE2NTE2MzczNDYsImV4cCI6MTY1MTY2NTk0NiwiaXNzIjoiaHR0cHM6Ly9hdXRoLmZpaW50cmFkZS52biIsImF1ZCI6WyJodHRwczovL2F1dGguZmlpbnRyYWRlLnZuL3Jlc291cmNlcyIsIkZpaW5UcmFkZS5NYXJrZXQiLCJGaWluVHJhZGUuQ29yZSIsIkZpaW5UcmFkZS5SZWFsdGltZSIsIkZpaW5UcmFkZS5GdW5kYW1lbnRhbCJdLCJjbGllbnRfaWQiOiJTdG94UGx1cy5GaWluVHJhZGUuU1BBIiwic3ViIjoiMzE4NTgiLCJhdXRoX3RpbWUiOjE2NTE2MzczNDYsImlkcCI6ImxvY2FsIiwidXNlcl9pZCI6IjMxODU4IiwidXNlcl9uYW1lIjoiY29uZ2xldGhhbmgyMEBnbWFpbC5jb20iLCJuYW1lIjoiIiwiZ2l2ZW5fbmFtZSI6IlRoYW5oIENvbmciLCJmYW1pbHlfbmFtZSI6IkxlIiwibWlkZGxlX25hbWUiOiIiLCJlbWFpbCI6ImNvbmdsZXRoYW5oMjBAZ21haWwuY29tIiwic2VydmljZV90eXBlIjoiRmlpbkdyb3VwLkZpaW5UcmFkZSIsImxpc3RfcGFja2FnZSI6IkZpaW5UcmFkZS5QcmVtaXVtIiwibGlzdF9mZWF0dXJlIjoiIiwibGlzdF9hcGkiOiIiLCJyb2xlIjoiQ1VTVE9NRVIiLCJncm91cF9uYW1lIjoiSW5kaXZpZHVhbCIsInN0YXJ0X2RhdGUiOiIyNi8xMS8yMDE5IiwiZW5kX2RhdGUiOiIxMi8xMi8yMDIyIiwiaGl0Y291bnRfcGVybW9udGgiOiIwIiwiY29tZ3JvdXBfbGltaXQiOiIiLCJ0aWNrZXJfbGltaXQiOiIiLCJ0aW1lcmFuZ2VfbGltaXQiOiIwIiwiZGF0YXJhbmdlX2xpbWl0IjoiMCIsInBlcl9taW51dGUiOiIwIiwicGVyX2hvdXIiOiIwIiwicGVyX2RheSI6IjAiLCJwZXJfbW9udGgiOiIwIiwiZW5hYmxlZCI6IlRydWUiLCJsYXN0X2F0dGVtcHQiOiIxMS8yNi8yMDE5IDI6Mjc6MjIgUE0iLCJsYXN0X2F0dGVtcHRfc3RhdHVzIjoiU1VDQ0VTUyIsImZpbmdlcnByaW50IjoiODY1OTdiOWZkYzg1ZDc0NTdkOTc1MmNkMWVhMTUwZmYiLCJjbGllbnR0eXBlIjoiV0VCQ0xJRU5UIiwic2NvcGUiOlsib3BlbmlkIiwiRmlpblRyYWRlLk1hcmtldCIsIkZpaW5UcmFkZS5Db3JlIiwiRmlpblRyYWRlLlJlYWx0aW1lIiwiRmlpblRyYWRlLkZ1bmRhbWVudGFsIl0sImFtciI6WyJwd2QiXX0.NhMfILe3Xf8cY_K4X6ekPB7d0piNGQF5u2C6SpJ7ZWFeetZIKluph2q7zJwQF4h8J9h80m47kSSNW7D7pdMkE2TXDpEvTLVcTpR8tJGFe-vKphLiki4Wl_tXKXReLlDkCRTBj7Ps-QlKWzqNqsf1PB-UOQEWDZXMnJ4GfLEuOB9N8Y_HC44gpb6eu2yXoUIse1l54xYhTGBPuvtPLMnuB8_rGJrCiILvWbL4a-vafCLAvD2d20IWQHJ7EQ64ymcqjj-IgJ-raFdYKbbV-3ivjzbSrmwe3aZDuZiso7vaLVxCXB-AvsUt5cLuKihx40tuCoWcWPwEw-7C4oEqNHbYsA",
+  "sec-ch-ua-mobile": "?0",
+  "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36",
+  "sec-ch-ua-platform": "\"Linux\"",
+  "Origin": "https://fiintrade.vn",
+  "Sec-Fetch-Site": "same-site",
+  "Sec-Fetch-Mode": "cors",
+  "Sec-Fetch-Dest": "empty",
+  "Referer": "https://fiintrade.vn/",
+  "Accept-Encoding": "gzip, deflate, br",
+  "Accept-Language": "en-US,en;q=0.9"
+}
